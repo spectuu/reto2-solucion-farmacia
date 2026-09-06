@@ -1,0 +1,46 @@
+Cargando información del sistema...
+
+Sequence contains no matching element
+Clientes cargados
+Usuarios cargados
+
+=========== LOGIN ===========
+Usuario: Contraseña: 
+Login correcto
+ALERTA: stock mínimo de Dolex
+ALERTA: Dolex próximo a vencer
+
+==============================
+      SISTEMA FARMACIA
+==============================
+1. Ver productos
+2. Ver servicios
+3. Ver clientes
+4. Buscar producto
+5. Registrar venta
+6. Acumular puntos
+7. Ver alertas
+8. Salir
+
+Seleccione opción: 
+===== PRODUCTOS =====
+Nombre		Stock	Precio
+-----------------------------------
+Dolex		2	5000
+
+==============================
+      SISTEMA FARMACIA
+==============================
+1. Ver productos
+2. Ver servicios
+3. Ver clientes
+4. Buscar producto
+5. Registrar venta
+6. Acumular puntos
+7. Ver alertas
+8. Salir
+
+Seleccione opción: 
+Saliendo del sistema...
+
+FIN DEL SISTEMA

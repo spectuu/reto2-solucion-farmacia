@@ -1,0 +1,3 @@
+# Salidas de compilacion: no se versionan en el repo del equipo
+**/bin/
+**/obj/
